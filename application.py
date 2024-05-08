@@ -86,22 +86,12 @@ def print_top_results_and_scores(query: str,
                                                   embeddings=embeddings,pages_and_chunks=pages_and_chunks,
                                                   n_resources_to_return=n_resources_to_return)
 
-    #print(f"Query: {query}\n")
-    #print("Results:")
-    # Loop through zipped together scores and indicies
-    #for score, index in zip(scores, indices):
-        #print(f"Score: {score:.4f}")
-        # Print relevant sentence chunk (since the scores are in descending order, the most relevant chunk will be first)
-        #print_wrapped(pages_and_chunks[index]["sentence_chunk"])
-        #print_wrapped(pages_and_chunks[index]["first_line"])
-        # Print the page number too so we can reference the textbook further and check the results
-        #print("\n")
     return pages_and_chunks[indices[0]]["sentence_chunk"],pages_and_chunks[indices[0]]["first_line"]
 
 def Home():
     st.markdown("<h1 style='text-align: center;'>Demo</h1>", unsafe_allow_html=True)
-    st.markdown("Descubre la potencia de nuestro demo, donde puedes realizar consultas sobre precios de cultivo. Sumérgete en la experiencia de obtener insights con gráficos en tiempo real, ofreciéndote una visión dinámica y detallada de tus datos. ¡Explora las posibilidades y toma decisiones informadas de manera intuitiva con nuestra solución web!")
-    st.markdown("Explore the power of our demo, where you can make queries about crop prices. Immerse yourself in the experience of gaining insights with real-time graphs, providing you with a dynamic and detailed view of your data. Discover the possibilities and make informed decisions intuitively with our web solution!")
+    #st.markdown("Descubre la potencia de nuestro demo, donde puedes realizar consultas sobre precios de cultivo. Sumérgete en la experiencia de obtener insights con gráficos en tiempo real, ofreciéndote una visión dinámica y detallada de tus datos. ¡Explora las posibilidades y toma decisiones informadas de manera intuitiva con nuestra solución web!")
+    #st.markdown("Explore the power of our demo, where you can make queries about crop prices. Immerse yourself in the experience of gaining insights with real-time graphs, providing you with a dynamic and detailed view of your data. Discover the possibilities and make informed decisions intuitively with our web solution!")
     
     st.sidebar.markdown("<h1 style='text-align: center; font-size: small;'>Powered by AGIA®</h1>", unsafe_allow_html=True)
 
