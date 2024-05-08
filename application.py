@@ -121,10 +121,10 @@ def Chat():
             messages=[
                 {"role": "assistant", "content": "Eres un experto parte de una organizacion llamada Abastores que se encarga de responder preguntas de usuario relacionadas al precio de ciertos granos que se venden en tu plataforma"},
                 {"role": "system", "content": f"Toda pregunta debe ser respondida en base a la siguiente data:"},
-                {"role": "system", "content": f"La metadata de la data que te brindo debajo es la siguiente: {topic}"},
+                {"role": "system", "content": f"La metadata de la data que te brindo debajo es la siguiente: {topic}, siempre incluye la metadata en la respuesta para que el usuario sepa de que provincia, fuente de datos es la informacion"},
                 {"role": "system", "content": f"Esta es la data: {text}"},
                 {"role": "system", "content": f"La pregunta del usuario es esta: {query}"},
-                {"role": "system", "content": f"Algunas cosas que considerar, precios en euros por tonelada, da el resumen como bullet points"},
+                {"role": "system", "content": f"Algunas cosas que considerar: precios en euros por tonelada, da la informacion como bullet points, luego un pequeño resumen como texto"},
             ],
             stream=False,
         )
