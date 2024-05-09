@@ -164,8 +164,14 @@ def create_pages_and_chunks(df_chunk):
         
         pages_and_chunks.append(chunk_dict)
 
-        text_chunks_and_embeddings_df = pd.DataFrame(pages_and_chunks)
-
     # Save the data to the postgresql database.
-    return text_chunks_and_embeddings_df
+    return pages_and_chunks
 
+def embedding_model(pages_and_chunks_df):
+
+    embedding_model = SentenceTransformer(model_name_or_path="all-mpnet-base-v2", device="cpu")
+
+    for item in tqdm(pages_and_chunks_df):
+        item['embedding'] = embedding_model.encode(item["sentence_chunk"])
+
+    return pages_and_chunks_df
