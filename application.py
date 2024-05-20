@@ -120,7 +120,7 @@ def Chat():
         )
 
         responses = []
-
+        print(stream)
         return stream.choices[0].message.content
     
     if "messages" not in st.session_state:
