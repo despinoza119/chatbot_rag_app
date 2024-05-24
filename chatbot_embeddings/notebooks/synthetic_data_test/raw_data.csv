@@ -1,0 +1,933 @@
+fecha,producto,precio,provincia,dia,mes,anio,dia_str,mes_str,anio_str,cambio_precio,noticia
+2022-10-18,Trigo,476.1,Barcelona,18,10,2022,dieciocho,octubre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-10-18,Maíz,350.75,León,18,10,2022,dieciocho,octubre,dos mil veintidós,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2022-10-19,Trigo,474.1,Barcelona,19,10,2022,diecinueve,octubre,dos mil veintidós,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-10-19,Maíz,348.75,León,19,10,2022,diecinueve,octubre,dos mil veintidós,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-10-20,Trigo,473.35,Barcelona,20,10,2022,veinte,octubre,dos mil veintidós,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-10-20,Maíz,348.0,León,20,10,2022,veinte,octubre,dos mil veintidós,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-10-21,Trigo,473.35,Barcelona,21,10,2022,veintiuno,octubre,dos mil veintidós,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-10-21,Maíz,348.0,León,21,10,2022,veintiuno,octubre,dos mil veintidós,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-10-22,Trigo,473.35,Barcelona,22,10,2022,veintidós,octubre,dos mil veintidós,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2022-10-22,Maíz,348.0,León,22,10,2022,veintidós,octubre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-10-23,Trigo,473.35,Barcelona,23,10,2022,veintitrés,octubre,dos mil veintidós,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-10-23,Maíz,348.0,León,23,10,2022,veintitrés,octubre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-10-24,Trigo,473.35,Barcelona,24,10,2022,veinticuatro,octubre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-10-24,Maíz,348.0,León,24,10,2022,veinticuatro,octubre,dos mil veintidós,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2022-10-25,Maíz,353.0,León,25,10,2022,veinticinco,octubre,dos mil veintidós,subió,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-10-25,Trigo,478.35,Barcelona,25,10,2022,veinticinco,octubre,dos mil veintidós,subió,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2022-10-26,Maíz,352.0,León,26,10,2022,veintiséis,octubre,dos mil veintidós,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-10-26,Trigo,477.35,Barcelona,26,10,2022,veintiséis,octubre,dos mil veintidós,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2022-10-27,Maíz,352.0,León,27,10,2022,veintisiete,octubre,dos mil veintidós,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-10-27,Trigo,477.35,Barcelona,27,10,2022,veintisiete,octubre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-10-28,Maíz,350.0,León,28,10,2022,veintiocho,octubre,dos mil veintidós,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2022-10-28,Trigo,475.35,Barcelona,28,10,2022,veintiocho,octubre,dos mil veintidós,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-10-29,Trigo,475.35,Barcelona,29,10,2022,veintinueve,octubre,dos mil veintidós,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-10-29,Maíz,350.0,León,29,10,2022,veintinueve,octubre,dos mil veintidós,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-10-30,Trigo,475.35,Barcelona,30,10,2022,treinta,octubre,dos mil veintidós,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-10-30,Maíz,350.0,León,30,10,2022,treinta,octubre,dos mil veintidós,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2022-10-31,Trigo,478.35,Barcelona,31,10,2022,treinta y uno,octubre,dos mil veintidós,subió,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-10-31,Maíz,353.0,León,31,10,2022,treinta y uno,octubre,dos mil veintidós,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-11-01,Trigo,478.35,Barcelona,1,11,2022,uno,noviembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-11-01,Maíz,353.0,León,1,11,2022,uno,noviembre,dos mil veintidós,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2022-11-02,Maíz,350.0,León,2,11,2022,dos,noviembre,dos mil veintidós,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-02,Trigo,475.35,Barcelona,2,11,2022,dos,noviembre,dos mil veintidós,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2022-11-03,Trigo,475.35,Barcelona,3,11,2022,tres,noviembre,dos mil veintidós,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2022-11-03,Maíz,350.0,León,3,11,2022,tres,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-11-04,Maíz,350.0,León,4,11,2022,cuatro,noviembre,dos mil veintidós,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2022-11-04,Trigo,475.35,Barcelona,4,11,2022,cuatro,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2022-11-05,Trigo,474.85,Barcelona,5,11,2022,cinco,noviembre,dos mil veintidós,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-11-05,Maíz,349.5,León,5,11,2022,cinco,noviembre,dos mil veintidós,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-11-06,Maíz,349.5,León,6,11,2022,seis,noviembre,dos mil veintidós,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-11-06,Trigo,474.85,Barcelona,6,11,2022,seis,noviembre,dos mil veintidós,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2022-11-07,Trigo,474.85,Barcelona,7,11,2022,siete,noviembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-11-07,Maíz,349.5,León,7,11,2022,siete,noviembre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-08,Trigo,475.35,Barcelona,8,11,2022,ocho,noviembre,dos mil veintidós,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-11-08,Maíz,350.0,León,8,11,2022,ocho,noviembre,dos mil veintidós,subió,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-11-09,Trigo,474.85,Barcelona,9,11,2022,nueve,noviembre,dos mil veintidós,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2022-11-09,Maíz,349.5,León,9,11,2022,nueve,noviembre,dos mil veintidós,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-11-10,Maíz,349.5,León,10,11,2022,diez,noviembre,dos mil veintidós,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2022-11-10,Trigo,474.85,Barcelona,10,11,2022,diez,noviembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-11-11,Maíz,349.0,León,11,11,2022,once,noviembre,dos mil veintidós,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-11,Trigo,474.35,Barcelona,11,11,2022,once,noviembre,dos mil veintidós,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2022-11-12,Maíz,349.0,León,12,11,2022,doce,noviembre,dos mil veintidós,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-11-12,Trigo,474.35,Barcelona,12,11,2022,doce,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2022-11-13,Trigo,474.35,Barcelona,13,11,2022,trece,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2022-11-13,Maíz,349.0,León,13,11,2022,trece,noviembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-11-14,Maíz,348.75,León,14,11,2022,catorce,noviembre,dos mil veintidós,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2022-11-14,Trigo,474.1,Barcelona,14,11,2022,catorce,noviembre,dos mil veintidós,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-11-15,Trigo,468.6,Barcelona,15,11,2022,quince,noviembre,dos mil veintidós,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-11-15,Maíz,343.25,León,15,11,2022,quince,noviembre,dos mil veintidós,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-16,Maíz,337.5,León,16,11,2022,dieciséis,noviembre,dos mil veintidós,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-16,Trigo,462.85,Barcelona,16,11,2022,dieciséis,noviembre,dos mil veintidós,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-11-17,Maíz,336.0,León,17,11,2022,diecisiete,noviembre,dos mil veintidós,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-11-17,Trigo,461.35,Barcelona,17,11,2022,diecisiete,noviembre,dos mil veintidós,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-18,Trigo,454.35,Barcelona,18,11,2022,dieciocho,noviembre,dos mil veintidós,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-18,Maíz,329.0,León,18,11,2022,dieciocho,noviembre,dos mil veintidós,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-11-19,Trigo,454.35,Barcelona,19,11,2022,diecinueve,noviembre,dos mil veintidós,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2022-11-19,Maíz,329.0,León,19,11,2022,diecinueve,noviembre,dos mil veintidós,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-11-20,Trigo,454.35,Barcelona,20,11,2022,veinte,noviembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-11-20,Maíz,329.0,León,20,11,2022,veinte,noviembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-21,Maíz,327.5,León,21,11,2022,veintiuno,noviembre,dos mil veintidós,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-21,Trigo,452.85,Barcelona,21,11,2022,veintiuno,noviembre,dos mil veintidós,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-11-22,Trigo,453.35,Barcelona,22,11,2022,veintidós,noviembre,dos mil veintidós,subió,La escasez de suministro de litio impulsa los precios a niveles récord.
+2022-11-22,Maíz,328.0,León,22,11,2022,veintidós,noviembre,dos mil veintidós,subió,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-11-23,Maíz,327.5,León,23,11,2022,veintitrés,noviembre,dos mil veintidós,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-11-23,Trigo,452.85,Barcelona,23,11,2022,veintitrés,noviembre,dos mil veintidós,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-11-24,Trigo,452.85,Barcelona,24,11,2022,veinticuatro,noviembre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-11-24,Maíz,327.5,León,24,11,2022,veinticuatro,noviembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-11-25,Trigo,452.85,Barcelona,25,11,2022,veinticinco,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-11-25,Maíz,327.5,León,25,11,2022,veinticinco,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2022-11-26,Trigo,452.85,Barcelona,26,11,2022,veintiséis,noviembre,dos mil veintidós,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-11-26,Maíz,327.5,León,26,11,2022,veintiséis,noviembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-27,Trigo,452.85,Barcelona,27,11,2022,veintisiete,noviembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-11-27,Maíz,327.5,León,27,11,2022,veintisiete,noviembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-11-28,Maíz,324.25,León,28,11,2022,veintiocho,noviembre,dos mil veintidós,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-11-28,Trigo,449.6,Barcelona,28,11,2022,veintiocho,noviembre,dos mil veintidós,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-11-29,Maíz,317.25,León,29,11,2022,veintinueve,noviembre,dos mil veintidós,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-11-29,Trigo,442.6,Barcelona,29,11,2022,veintinueve,noviembre,dos mil veintidós,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-11-30,Maíz,317.25,León,30,11,2022,treinta,noviembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-11-30,Trigo,442.6,Barcelona,30,11,2022,treinta,noviembre,dos mil veintidós,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2022-12-01,Trigo,442.6,Barcelona,1,12,2022,uno,diciembre,dos mil veintidós,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2022-12-01,Maíz,317.25,León,1,12,2022,uno,diciembre,dos mil veintidós,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-12-02,Maíz,317.0,León,2,12,2022,dos,diciembre,dos mil veintidós,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-12-02,Trigo,442.35,Barcelona,2,12,2022,dos,diciembre,dos mil veintidós,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-03,Maíz,317.0,León,3,12,2022,tres,diciembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-12-03,Trigo,442.35,Barcelona,3,12,2022,tres,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-04,Maíz,317.0,León,4,12,2022,cuatro,diciembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-12-04,Trigo,442.35,Barcelona,4,12,2022,cuatro,diciembre,dos mil veintidós,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2022-12-05,Trigo,435.35,Barcelona,5,12,2022,cinco,diciembre,dos mil veintidós,bajó,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2022-12-05,Maíz,310.0,León,5,12,2022,cinco,diciembre,dos mil veintidós,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-12-06,Maíz,310.0,León,6,12,2022,seis,diciembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-12-06,Trigo,435.35,Barcelona,6,12,2022,seis,diciembre,dos mil veintidós,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2022-12-07,Maíz,310.0,León,7,12,2022,siete,diciembre,dos mil veintidós,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2022-12-07,Trigo,435.35,Barcelona,7,12,2022,siete,diciembre,dos mil veintidós,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-12-08,Trigo,435.35,Barcelona,8,12,2022,ocho,diciembre,dos mil veintidós,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-12-08,Maíz,310.0,León,8,12,2022,ocho,diciembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-12-09,Trigo,435.35,Barcelona,9,12,2022,nueve,diciembre,dos mil veintidós,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-12-09,Maíz,310.0,León,9,12,2022,nueve,diciembre,dos mil veintidós,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2022-12-10,Trigo,435.35,Barcelona,10,12,2022,diez,diciembre,dos mil veintidós,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2022-12-10,Maíz,310.0,León,10,12,2022,diez,diciembre,dos mil veintidós,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2022-12-11,Trigo,435.35,Barcelona,11,12,2022,once,diciembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-12-11,Maíz,310.0,León,11,12,2022,once,diciembre,dos mil veintidós,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-12-12,Maíz,307.0,León,12,12,2022,doce,diciembre,dos mil veintidós,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-12-12,Trigo,432.35,Barcelona,12,12,2022,doce,diciembre,dos mil veintidós,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-12-13,Maíz,307.0,León,13,12,2022,trece,diciembre,dos mil veintidós,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2022-12-13,Trigo,432.35,Barcelona,13,12,2022,trece,diciembre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-12-14,Maíz,307.0,León,14,12,2022,catorce,diciembre,dos mil veintidós,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2022-12-14,Trigo,432.35,Barcelona,14,12,2022,catorce,diciembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-12-15,Maíz,305.0,León,15,12,2022,quince,diciembre,dos mil veintidós,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-15,Trigo,430.35,Barcelona,15,12,2022,quince,diciembre,dos mil veintidós,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-12-16,Maíz,304.75,León,16,12,2022,dieciséis,diciembre,dos mil veintidós,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-12-16,Trigo,430.1,Barcelona,16,12,2022,dieciséis,diciembre,dos mil veintidós,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2022-12-17,Maíz,304.75,León,17,12,2022,diecisiete,diciembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-12-17,Trigo,430.1,Barcelona,17,12,2022,diecisiete,diciembre,dos mil veintidós,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2022-12-18,Maíz,304.75,León,18,12,2022,dieciocho,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-18,Trigo,430.1,Barcelona,18,12,2022,dieciocho,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-19,Trigo,430.1,Barcelona,19,12,2022,diecinueve,diciembre,dos mil veintidós,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-12-19,Maíz,304.75,León,19,12,2022,diecinueve,diciembre,dos mil veintidós,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2022-12-20,Trigo,430.1,Barcelona,20,12,2022,veinte,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-20,Maíz,304.75,León,20,12,2022,veinte,diciembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-12-21,Maíz,305.0,León,21,12,2022,veintiuno,diciembre,dos mil veintidós,subió,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-12-21,Trigo,430.35,Barcelona,21,12,2022,veintiuno,diciembre,dos mil veintidós,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2022-12-22,Trigo,432.6,Barcelona,22,12,2022,veintidós,diciembre,dos mil veintidós,subió,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2022-12-22,Maíz,307.25,León,22,12,2022,veintidós,diciembre,dos mil veintidós,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-12-23,Trigo,432.6,Barcelona,23,12,2022,veintitrés,diciembre,dos mil veintidós,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2022-12-23,Maíz,307.25,León,23,12,2022,veintitrés,diciembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-12-24,Maíz,307.25,León,24,12,2022,veinticuatro,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-24,Trigo,432.6,Barcelona,24,12,2022,veinticuatro,diciembre,dos mil veintidós,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-12-25,Trigo,432.6,Barcelona,25,12,2022,veinticinco,diciembre,dos mil veintidós,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2022-12-25,Maíz,307.25,León,25,12,2022,veinticinco,diciembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-12-26,Maíz,307.25,León,26,12,2022,veintiséis,diciembre,dos mil veintidós,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2022-12-26,Trigo,432.6,Barcelona,26,12,2022,veintiséis,diciembre,dos mil veintidós,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2022-12-27,Maíz,307.25,León,27,12,2022,veintisiete,diciembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2022-12-27,Trigo,432.6,Barcelona,27,12,2022,veintisiete,diciembre,dos mil veintidós,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2022-12-28,Trigo,432.6,Barcelona,28,12,2022,veintiocho,diciembre,dos mil veintidós,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2022-12-28,Maíz,307.25,León,28,12,2022,veintiocho,diciembre,dos mil veintidós,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-12-29,Trigo,432.6,Barcelona,29,12,2022,veintinueve,diciembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-12-29,Maíz,307.25,León,29,12,2022,veintinueve,diciembre,dos mil veintidós,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2022-12-30,Trigo,432.6,Barcelona,30,12,2022,treinta,diciembre,dos mil veintidós,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2022-12-30,Maíz,307.25,León,30,12,2022,treinta,diciembre,dos mil veintidós,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2022-12-31,Trigo,432.6,Barcelona,31,12,2022,treinta y uno,diciembre,dos mil veintidós,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2022-12-31,Maíz,307.25,León,31,12,2022,treinta y uno,diciembre,dos mil veintidós,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-01-01,Maíz,307.25,León,1,1,2023,uno,enero,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-01-01,Trigo,432.6,Barcelona,1,1,2023,uno,enero,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-01-02,Maíz,307.25,León,2,1,2023,dos,enero,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-01-02,Trigo,432.6,Barcelona,2,1,2023,dos,enero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-01-03,Trigo,438.85,Barcelona,3,1,2023,tres,enero,dos mil veintitrés,subió,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-03,Maíz,313.5,León,3,1,2023,tres,enero,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-01-04,Maíz,312.75,León,4,1,2023,cuatro,enero,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-01-04,Trigo,438.1,Barcelona,4,1,2023,cuatro,enero,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-01-05,Maíz,312.75,León,5,1,2023,cinco,enero,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-01-05,Trigo,438.1,Barcelona,5,1,2023,cinco,enero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-01-06,Maíz,312.75,León,6,1,2023,seis,enero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-01-06,Trigo,438.1,Barcelona,6,1,2023,seis,enero,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-01-07,Maíz,312.75,León,7,1,2023,siete,enero,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-01-07,Trigo,438.1,Barcelona,7,1,2023,siete,enero,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-01-08,Maíz,312.75,León,8,1,2023,ocho,enero,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-01-08,Trigo,438.1,Barcelona,8,1,2023,ocho,enero,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-09,Trigo,438.1,Barcelona,9,1,2023,nueve,enero,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-01-09,Maíz,312.75,León,9,1,2023,nueve,enero,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-01-10,Trigo,435.85,Barcelona,10,1,2023,diez,enero,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-10,Maíz,310.5,León,10,1,2023,diez,enero,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-01-11,Trigo,434.1,Barcelona,11,1,2023,once,enero,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-01-11,Maíz,308.75,León,11,1,2023,once,enero,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-01-12,Maíz,308.75,León,12,1,2023,doce,enero,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-01-12,Trigo,434.1,Barcelona,12,1,2023,doce,enero,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-01-13,Trigo,434.1,Barcelona,13,1,2023,trece,enero,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-01-13,Maíz,308.75,León,13,1,2023,trece,enero,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-01-14,Maíz,308.75,León,14,1,2023,catorce,enero,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-14,Trigo,434.1,Barcelona,14,1,2023,catorce,enero,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-01-15,Trigo,434.1,Barcelona,15,1,2023,quince,enero,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-01-15,Maíz,308.75,León,15,1,2023,quince,enero,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-01-16,Trigo,434.1,Barcelona,16,1,2023,dieciséis,enero,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-01-16,Maíz,308.75,León,16,1,2023,dieciséis,enero,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-01-17,Trigo,433.35,Barcelona,17,1,2023,diecisiete,enero,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-01-17,Maíz,308.0,León,17,1,2023,diecisiete,enero,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-01-18,Trigo,433.35,Barcelona,18,1,2023,dieciocho,enero,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-01-18,Maíz,308.0,León,18,1,2023,dieciocho,enero,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-01-19,Maíz,308.0,León,19,1,2023,diecinueve,enero,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-01-19,Trigo,433.35,Barcelona,19,1,2023,diecinueve,enero,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-01-20,Maíz,306.75,León,20,1,2023,veinte,enero,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-01-20,Trigo,432.1,Barcelona,20,1,2023,veinte,enero,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-21,Maíz,306.75,León,21,1,2023,veintiuno,enero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-01-21,Trigo,432.1,Barcelona,21,1,2023,veintiuno,enero,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-01-22,Maíz,306.75,León,22,1,2023,veintidós,enero,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-01-22,Trigo,432.1,Barcelona,22,1,2023,veintidós,enero,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-01-23,Trigo,430.85,Barcelona,23,1,2023,veintitrés,enero,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-01-23,Maíz,305.5,León,23,1,2023,veintitrés,enero,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-01-24,Trigo,428.35,Barcelona,24,1,2023,veinticuatro,enero,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-01-24,Maíz,303.0,León,24,1,2023,veinticuatro,enero,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-01-25,Trigo,427.35,Barcelona,25,1,2023,veinticinco,enero,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-01-25,Maíz,302.0,León,25,1,2023,veinticinco,enero,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-01-26,Trigo,428.35,Barcelona,26,1,2023,veintiséis,enero,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-01-26,Maíz,303.0,León,26,1,2023,veintiséis,enero,dos mil veintitrés,subió,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-01-27,Trigo,428.35,Barcelona,27,1,2023,veintisiete,enero,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-01-27,Maíz,303.0,León,27,1,2023,veintisiete,enero,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-01-28,Trigo,428.35,Barcelona,28,1,2023,veintiocho,enero,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-01-28,Maíz,303.0,León,28,1,2023,veintiocho,enero,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-01-29,Trigo,428.35,Barcelona,29,1,2023,veintinueve,enero,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-01-29,Maíz,303.0,León,29,1,2023,veintinueve,enero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-01-30,Trigo,428.35,Barcelona,30,1,2023,treinta,enero,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-01-30,Maíz,303.0,León,30,1,2023,treinta,enero,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-01-31,Trigo,426.6,Barcelona,31,1,2023,treinta y uno,enero,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-01-31,Maíz,301.25,León,31,1,2023,treinta y uno,enero,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-02-01,Trigo,426.35,Barcelona,1,2,2023,uno,febrero,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-02-01,Maíz,301.0,León,1,2,2023,uno,febrero,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-02-02,Maíz,300.25,León,2,2,2023,dos,febrero,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-02-02,Trigo,425.6,Barcelona,2,2,2023,dos,febrero,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-02-03,Maíz,300.0,León,3,2,2023,tres,febrero,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-02-03,Trigo,425.35,Barcelona,3,2,2023,tres,febrero,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-02-04,Maíz,300.0,León,4,2,2023,cuatro,febrero,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-02-04,Trigo,425.35,Barcelona,4,2,2023,cuatro,febrero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-02-05,Maíz,300.0,León,5,2,2023,cinco,febrero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-02-05,Trigo,425.35,Barcelona,5,2,2023,cinco,febrero,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-02-06,Maíz,300.0,León,6,2,2023,seis,febrero,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-02-06,Trigo,425.35,Barcelona,6,2,2023,seis,febrero,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-02-07,Maíz,301.0,León,7,2,2023,siete,febrero,dos mil veintitrés,subió,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-02-07,Trigo,426.35,Barcelona,7,2,2023,siete,febrero,dos mil veintitrés,subió,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-02-08,Trigo,426.35,Barcelona,8,2,2023,ocho,febrero,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-02-08,Maíz,301.0,León,8,2,2023,ocho,febrero,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-02-09,Maíz,301.0,León,9,2,2023,nueve,febrero,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-02-09,Trigo,426.35,Barcelona,9,2,2023,nueve,febrero,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-02-10,Maíz,301.25,León,10,2,2023,diez,febrero,dos mil veintitrés,subió,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-02-10,Trigo,426.6,Barcelona,10,2,2023,diez,febrero,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-02-11,Maíz,301.25,León,11,2,2023,once,febrero,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-02-11,Trigo,426.6,Barcelona,11,2,2023,once,febrero,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-02-12,Maíz,301.25,León,12,2,2023,doce,febrero,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-02-12,Trigo,426.6,Barcelona,12,2,2023,doce,febrero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-02-13,Maíz,302.75,León,13,2,2023,trece,febrero,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-02-13,Trigo,428.1,Barcelona,13,2,2023,trece,febrero,dos mil veintitrés,subió,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-02-14,Trigo,430.35,Barcelona,14,2,2023,catorce,febrero,dos mil veintitrés,subió,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-02-14,Maíz,305.0,León,14,2,2023,catorce,febrero,dos mil veintitrés,subió,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-02-15,Maíz,306.0,León,15,2,2023,quince,febrero,dos mil veintitrés,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-02-15,Trigo,431.35,Barcelona,15,2,2023,quince,febrero,dos mil veintitrés,subió,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-02-16,Maíz,305.0,León,16,2,2023,dieciséis,febrero,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-02-16,Trigo,430.35,Barcelona,16,2,2023,dieciséis,febrero,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-02-17,Maíz,305.0,León,17,2,2023,diecisiete,febrero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-02-17,Trigo,430.35,Barcelona,17,2,2023,diecisiete,febrero,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-02-18,Maíz,305.0,León,18,2,2023,dieciocho,febrero,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-02-18,Trigo,430.35,Barcelona,18,2,2023,dieciocho,febrero,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-02-19,Maíz,305.0,León,19,2,2023,diecinueve,febrero,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-02-19,Trigo,430.35,Barcelona,19,2,2023,diecinueve,febrero,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-02-20,Maíz,305.0,León,20,2,2023,veinte,febrero,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-02-20,Trigo,430.35,Barcelona,20,2,2023,veinte,febrero,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-02-21,Maíz,305.0,León,21,2,2023,veintiuno,febrero,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-02-21,Trigo,430.35,Barcelona,21,2,2023,veintiuno,febrero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-02-22,Trigo,429.35,Barcelona,22,2,2023,veintidós,febrero,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-02-22,Maíz,304.0,León,22,2,2023,veintidós,febrero,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-02-23,Trigo,429.35,Barcelona,23,2,2023,veintitrés,febrero,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-02-23,Maíz,304.0,León,23,2,2023,veintitrés,febrero,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-02-24,Trigo,429.35,Barcelona,24,2,2023,veinticuatro,febrero,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-02-24,Maíz,304.0,León,24,2,2023,veinticuatro,febrero,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-02-25,Trigo,429.35,Barcelona,25,2,2023,veinticinco,febrero,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-02-25,Maíz,304.0,León,25,2,2023,veinticinco,febrero,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-02-26,Trigo,429.35,Barcelona,26,2,2023,veintiséis,febrero,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-02-26,Maíz,304.0,León,26,2,2023,veintiséis,febrero,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-02-27,Trigo,428.35,Barcelona,27,2,2023,veintisiete,febrero,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-02-27,Maíz,303.0,León,27,2,2023,veintisiete,febrero,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-02-28,Trigo,428.35,Barcelona,28,2,2023,veintiocho,febrero,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-02-28,Maíz,303.0,León,28,2,2023,veintiocho,febrero,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-03-01,Trigo,421.85,Barcelona,1,3,2023,uno,marzo,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-03-01,Maíz,296.5,León,1,3,2023,uno,marzo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-03-02,Trigo,421.85,Barcelona,2,3,2023,dos,marzo,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-03-02,Maíz,296.5,León,2,3,2023,dos,marzo,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-03-03,Trigo,421.35,Barcelona,3,3,2023,tres,marzo,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-03-03,Maíz,296.0,León,3,3,2023,tres,marzo,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-03-04,Trigo,421.35,Barcelona,4,3,2023,cuatro,marzo,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-03-04,Maíz,296.0,León,4,3,2023,cuatro,marzo,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-03-05,Maíz,296.0,León,5,3,2023,cinco,marzo,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-03-05,Trigo,421.35,Barcelona,5,3,2023,cinco,marzo,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-03-06,Trigo,420.35,Barcelona,6,3,2023,seis,marzo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-03-06,Maíz,295.0,León,6,3,2023,seis,marzo,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-03-07,Trigo,418.35,Barcelona,7,3,2023,siete,marzo,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-03-07,Maíz,293.0,León,7,3,2023,siete,marzo,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-03-08,Maíz,291.5,León,8,3,2023,ocho,marzo,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-03-08,Trigo,416.85,Barcelona,8,3,2023,ocho,marzo,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-03-09,Trigo,414.35,Barcelona,9,3,2023,nueve,marzo,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-03-09,Maíz,289.0,León,9,3,2023,nueve,marzo,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-03-10,Trigo,414.1,Barcelona,10,3,2023,diez,marzo,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-03-10,Maíz,288.75,León,10,3,2023,diez,marzo,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-03-11,Trigo,414.1,Barcelona,11,3,2023,once,marzo,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-03-11,Maíz,288.75,León,11,3,2023,once,marzo,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-03-12,Trigo,414.1,Barcelona,12,3,2023,doce,marzo,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-03-12,Maíz,288.75,León,12,3,2023,doce,marzo,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-03-13,Maíz,288.75,León,13,3,2023,trece,marzo,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-03-13,Trigo,414.1,Barcelona,13,3,2023,trece,marzo,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-03-14,Maíz,286.0,León,14,3,2023,catorce,marzo,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-03-14,Trigo,411.35,Barcelona,14,3,2023,catorce,marzo,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-03-15,Maíz,283.5,León,15,3,2023,quince,marzo,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-03-15,Trigo,408.85,Barcelona,15,3,2023,quince,marzo,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-03-16,Maíz,283.0,León,16,3,2023,dieciséis,marzo,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-03-16,Trigo,408.35,Barcelona,16,3,2023,dieciséis,marzo,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-03-17,Trigo,405.85,Barcelona,17,3,2023,diecisiete,marzo,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-03-17,Maíz,280.5,León,17,3,2023,diecisiete,marzo,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-03-18,Trigo,405.85,Barcelona,18,3,2023,dieciocho,marzo,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-03-18,Maíz,280.5,León,18,3,2023,dieciocho,marzo,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-03-19,Maíz,280.5,León,19,3,2023,diecinueve,marzo,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-03-19,Trigo,405.85,Barcelona,19,3,2023,diecinueve,marzo,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-03-20,Trigo,403.35,Barcelona,20,3,2023,veinte,marzo,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-03-20,Maíz,278.0,León,20,3,2023,veinte,marzo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-03-21,Maíz,275.0,León,21,3,2023,veintiuno,marzo,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-03-21,Trigo,400.35,Barcelona,21,3,2023,veintiuno,marzo,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-03-22,Trigo,399.35,Barcelona,22,3,2023,veintidós,marzo,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-03-22,Maíz,274.0,León,22,3,2023,veintidós,marzo,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-03-23,Trigo,398.35,Barcelona,23,3,2023,veintitrés,marzo,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-03-23,Maíz,273.0,León,23,3,2023,veintitrés,marzo,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-03-24,Trigo,398.35,Barcelona,24,3,2023,veinticuatro,marzo,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-03-24,Maíz,273.0,León,24,3,2023,veinticuatro,marzo,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-03-25,Trigo,398.35,Barcelona,25,3,2023,veinticinco,marzo,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-03-25,Maíz,273.0,León,25,3,2023,veinticinco,marzo,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-03-26,Trigo,398.35,Barcelona,26,3,2023,veintiséis,marzo,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-03-26,Maíz,273.0,León,26,3,2023,veintiséis,marzo,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-03-27,Trigo,403.35,Barcelona,27,3,2023,veintisiete,marzo,dos mil veintitrés,subió,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-03-27,Maíz,278.0,León,27,3,2023,veintisiete,marzo,dos mil veintitrés,subió,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-03-28,Trigo,403.85,Barcelona,28,3,2023,veintiocho,marzo,dos mil veintitrés,subió,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-03-28,Maíz,278.5,León,28,3,2023,veintiocho,marzo,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-03-29,Trigo,403.85,Barcelona,29,3,2023,veintinueve,marzo,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-03-29,Maíz,278.5,León,29,3,2023,veintinueve,marzo,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-03-30,Trigo,403.85,Barcelona,30,3,2023,treinta,marzo,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-03-30,Maíz,278.5,León,30,3,2023,treinta,marzo,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-03-31,Maíz,278.5,León,31,3,2023,treinta y uno,marzo,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-03-31,Trigo,403.85,Barcelona,31,3,2023,treinta y uno,marzo,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-04-01,Maíz,278.5,León,1,4,2023,uno,abril,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-04-01,Trigo,403.85,Barcelona,1,4,2023,uno,abril,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-04-02,Maíz,278.5,León,2,4,2023,dos,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-02,Trigo,403.85,Barcelona,2,4,2023,dos,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-04-03,Maíz,279.75,León,3,4,2023,tres,abril,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-03,Trigo,405.1,Barcelona,3,4,2023,tres,abril,dos mil veintitrés,subió,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-04-04,Maíz,280.0,León,4,4,2023,cuatro,abril,dos mil veintitrés,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-04-04,Trigo,405.35,Barcelona,4,4,2023,cuatro,abril,dos mil veintitrés,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-04-05,Maíz,280.0,León,5,4,2023,cinco,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-05,Trigo,405.35,Barcelona,5,4,2023,cinco,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-04-06,Maíz,280.0,León,6,4,2023,seis,abril,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-04-06,Trigo,405.35,Barcelona,6,4,2023,seis,abril,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-07,Trigo,405.35,Barcelona,7,4,2023,siete,abril,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-04-07,Maíz,280.0,León,7,4,2023,siete,abril,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-04-08,Trigo,405.35,Barcelona,8,4,2023,ocho,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-04-08,Maíz,280.0,León,8,4,2023,ocho,abril,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-04-09,Trigo,405.35,Barcelona,9,4,2023,nueve,abril,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-04-09,Maíz,280.0,León,9,4,2023,nueve,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-10,Trigo,405.35,Barcelona,10,4,2023,diez,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-10,Maíz,280.0,León,10,4,2023,diez,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-11,Trigo,405.35,Barcelona,11,4,2023,once,abril,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-04-11,Maíz,280.0,León,11,4,2023,once,abril,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-04-12,Maíz,280.0,León,12,4,2023,doce,abril,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-04-12,Trigo,405.35,Barcelona,12,4,2023,doce,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-04-13,Maíz,279.5,León,13,4,2023,trece,abril,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-04-13,Trigo,404.85,Barcelona,13,4,2023,trece,abril,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-14,Trigo,404.85,Barcelona,14,4,2023,catorce,abril,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-04-14,Maíz,279.5,León,14,4,2023,catorce,abril,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-04-15,Trigo,404.85,Barcelona,15,4,2023,quince,abril,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-04-15,Maíz,279.5,León,15,4,2023,quince,abril,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-04-16,Maíz,279.5,León,16,4,2023,dieciséis,abril,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-04-16,Trigo,404.85,Barcelona,16,4,2023,dieciséis,abril,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-04-17,Trigo,405.85,Barcelona,17,4,2023,diecisiete,abril,dos mil veintitrés,subió,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-04-17,Maíz,280.5,León,17,4,2023,diecisiete,abril,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-04-18,Trigo,400.85,Barcelona,18,4,2023,dieciocho,abril,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-04-18,Maíz,275.5,León,18,4,2023,dieciocho,abril,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-19,Maíz,275.5,León,19,4,2023,diecinueve,abril,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-04-19,Trigo,400.85,Barcelona,19,4,2023,diecinueve,abril,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-04-20,Maíz,275.5,León,20,4,2023,veinte,abril,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-04-20,Trigo,400.85,Barcelona,20,4,2023,veinte,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-04-21,Maíz,275.0,León,21,4,2023,veintiuno,abril,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-04-21,Trigo,400.35,Barcelona,21,4,2023,veintiuno,abril,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-04-22,Trigo,400.35,Barcelona,22,4,2023,veintidós,abril,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-22,Maíz,275.0,León,22,4,2023,veintidós,abril,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-04-23,Trigo,400.35,Barcelona,23,4,2023,veintitrés,abril,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-04-23,Maíz,275.0,León,23,4,2023,veintitrés,abril,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-04-24,Maíz,275.0,León,24,4,2023,veinticuatro,abril,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-04-24,Trigo,400.35,Barcelona,24,4,2023,veinticuatro,abril,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-04-25,Trigo,400.35,Barcelona,25,4,2023,veinticinco,abril,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-04-25,Maíz,275.0,León,25,4,2023,veinticinco,abril,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-04-26,Maíz,275.0,León,26,4,2023,veintiséis,abril,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-04-26,Trigo,400.35,Barcelona,26,4,2023,veintiséis,abril,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-04-27,Trigo,399.35,Barcelona,27,4,2023,veintisiete,abril,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-04-27,Maíz,274.0,León,27,4,2023,veintisiete,abril,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-04-28,Trigo,399.35,Barcelona,28,4,2023,veintiocho,abril,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-28,Maíz,274.0,León,28,4,2023,veintiocho,abril,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-04-29,Trigo,399.35,Barcelona,29,4,2023,veintinueve,abril,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-04-29,Maíz,274.0,León,29,4,2023,veintinueve,abril,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-04-30,Trigo,399.35,Barcelona,30,4,2023,treinta,abril,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-04-30,Maíz,274.0,León,30,4,2023,treinta,abril,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-05-01,Maíz,274.0,León,1,5,2023,uno,mayo,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-05-01,Trigo,399.35,Barcelona,1,5,2023,uno,mayo,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-05-02,Maíz,272.5,León,2,5,2023,dos,mayo,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-05-02,Trigo,397.85,Barcelona,2,5,2023,dos,mayo,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-05-03,Maíz,269.0,León,3,5,2023,tres,mayo,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-05-03,Trigo,394.35,Barcelona,3,5,2023,tres,mayo,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-05-04,Trigo,395.1,Barcelona,4,5,2023,cuatro,mayo,dos mil veintitrés,subió,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-05-04,Maíz,269.75,León,4,5,2023,cuatro,mayo,dos mil veintitrés,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-05,Trigo,395.1,Barcelona,5,5,2023,cinco,mayo,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-05-05,Maíz,269.75,León,5,5,2023,cinco,mayo,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-05-06,Trigo,395.1,Barcelona,6,5,2023,seis,mayo,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-05-06,Maíz,269.75,León,6,5,2023,seis,mayo,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-05-07,Maíz,269.75,León,7,5,2023,siete,mayo,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-05-07,Trigo,395.1,Barcelona,7,5,2023,siete,mayo,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-05-08,Trigo,393.35,Barcelona,8,5,2023,ocho,mayo,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-08,Maíz,268.0,León,8,5,2023,ocho,mayo,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-05-09,Maíz,260.0,León,9,5,2023,nueve,mayo,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-05-09,Trigo,385.35,Barcelona,9,5,2023,nueve,mayo,dos mil veintitrés,bajó,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-05-10,Maíz,259.25,León,10,5,2023,diez,mayo,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-05-10,Trigo,384.6,Barcelona,10,5,2023,diez,mayo,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-05-11,Maíz,259.25,León,11,5,2023,once,mayo,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-05-11,Trigo,384.6,Barcelona,11,5,2023,once,mayo,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-05-12,Maíz,259.25,León,12,5,2023,doce,mayo,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-05-12,Trigo,384.6,Barcelona,12,5,2023,doce,mayo,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-05-13,Trigo,384.6,Barcelona,13,5,2023,trece,mayo,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-05-13,Maíz,259.25,León,13,5,2023,trece,mayo,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-05-14,Maíz,259.25,León,14,5,2023,catorce,mayo,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-05-14,Trigo,384.6,Barcelona,14,5,2023,catorce,mayo,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-05-15,Maíz,261.0,León,15,5,2023,quince,mayo,dos mil veintitrés,subió,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-05-15,Trigo,386.35,Barcelona,15,5,2023,quince,mayo,dos mil veintitrés,subió,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-05-16,Maíz,260.0,León,16,5,2023,dieciséis,mayo,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-05-16,Trigo,385.35,Barcelona,16,5,2023,dieciséis,mayo,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-05-17,Maíz,258.0,León,17,5,2023,diecisiete,mayo,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-05-17,Trigo,383.35,Barcelona,17,5,2023,diecisiete,mayo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-05-18,Trigo,380.35,Barcelona,18,5,2023,dieciocho,mayo,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-18,Maíz,255.0,León,18,5,2023,dieciocho,mayo,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-05-19,Trigo,380.35,Barcelona,19,5,2023,diecinueve,mayo,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-19,Maíz,255.0,León,19,5,2023,diecinueve,mayo,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-05-20,Trigo,380.35,Barcelona,20,5,2023,veinte,mayo,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-05-20,Maíz,255.0,León,20,5,2023,veinte,mayo,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-05-21,Maíz,255.0,León,21,5,2023,veintiuno,mayo,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-05-21,Trigo,380.35,Barcelona,21,5,2023,veintiuno,mayo,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-05-22,Trigo,378.35,Barcelona,22,5,2023,veintidós,mayo,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-05-22,Maíz,253.0,León,22,5,2023,veintidós,mayo,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-23,Trigo,378.35,Barcelona,23,5,2023,veintitrés,mayo,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-05-23,Maíz,253.0,León,23,5,2023,veintitrés,mayo,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-05-24,Trigo,377.85,Barcelona,24,5,2023,veinticuatro,mayo,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-05-24,Maíz,252.5,León,24,5,2023,veinticuatro,mayo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-05-25,Trigo,377.1,Barcelona,25,5,2023,veinticinco,mayo,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-05-25,Maíz,251.75,León,25,5,2023,veinticinco,mayo,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-05-26,Trigo,376.35,Barcelona,26,5,2023,veintiséis,mayo,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-05-26,Maíz,251.0,León,26,5,2023,veintiséis,mayo,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-05-27,Maíz,251.0,León,27,5,2023,veintisiete,mayo,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-05-27,Trigo,376.35,Barcelona,27,5,2023,veintisiete,mayo,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-05-28,Maíz,251.0,León,28,5,2023,veintiocho,mayo,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-05-28,Trigo,376.35,Barcelona,28,5,2023,veintiocho,mayo,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-05-29,Maíz,251.0,León,29,5,2023,veintinueve,mayo,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-05-29,Trigo,376.35,Barcelona,29,5,2023,veintinueve,mayo,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-05-30,Maíz,250.0,León,30,5,2023,treinta,mayo,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-05-30,Trigo,375.35,Barcelona,30,5,2023,treinta,mayo,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-05-31,Maíz,249.0,León,31,5,2023,treinta y uno,mayo,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-05-31,Trigo,374.35,Barcelona,31,5,2023,treinta y uno,mayo,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-01,Maíz,249.0,León,1,6,2023,uno,junio,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-06-01,Trigo,374.35,Barcelona,1,6,2023,uno,junio,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-02,Trigo,374.35,Barcelona,2,6,2023,dos,junio,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-06-02,Maíz,249.0,León,2,6,2023,dos,junio,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-06-03,Maíz,249.0,León,3,6,2023,tres,junio,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-06-03,Trigo,374.35,Barcelona,3,6,2023,tres,junio,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-06-04,Maíz,249.0,León,4,6,2023,cuatro,junio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-06-04,Trigo,374.35,Barcelona,4,6,2023,cuatro,junio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-06-05,Maíz,249.0,León,5,6,2023,cinco,junio,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-06-05,Trigo,374.35,Barcelona,5,6,2023,cinco,junio,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-06-06,Maíz,251.0,León,6,6,2023,seis,junio,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-06-06,Trigo,376.35,Barcelona,6,6,2023,seis,junio,dos mil veintitrés,subió,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-06-07,Trigo,374.1,Barcelona,7,6,2023,siete,junio,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-06-07,Maíz,248.75,León,7,6,2023,siete,junio,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-06-08,Trigo,374.1,Barcelona,8,6,2023,ocho,junio,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-06-08,Maíz,248.75,León,8,6,2023,ocho,junio,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-06-09,Trigo,374.1,Barcelona,9,6,2023,nueve,junio,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-06-09,Maíz,248.75,León,9,6,2023,nueve,junio,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-06-10,Trigo,374.1,Barcelona,10,6,2023,diez,junio,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-10,Maíz,248.75,León,10,6,2023,diez,junio,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-06-11,Trigo,374.1,Barcelona,11,6,2023,once,junio,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-06-11,Maíz,248.75,León,11,6,2023,once,junio,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-06-12,Maíz,248.75,León,12,6,2023,doce,junio,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-06-12,Trigo,374.1,Barcelona,12,6,2023,doce,junio,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-06-13,Maíz,248.75,León,13,6,2023,trece,junio,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-06-13,Trigo,374.1,Barcelona,13,6,2023,trece,junio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-06-14,Maíz,248.0,León,14,6,2023,catorce,junio,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-06-14,Trigo,373.35,Barcelona,14,6,2023,catorce,junio,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-06-15,Trigo,373.35,Barcelona,15,6,2023,quince,junio,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-06-15,Maíz,248.0,León,15,6,2023,quince,junio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-06-16,Trigo,375.6,Barcelona,16,6,2023,dieciséis,junio,dos mil veintitrés,subió,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-06-16,Maíz,250.25,León,16,6,2023,dieciséis,junio,dos mil veintitrés,subió,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-06-17,Trigo,375.6,Barcelona,17,6,2023,diecisiete,junio,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-06-17,Maíz,250.25,León,17,6,2023,diecisiete,junio,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-18,Trigo,375.6,Barcelona,18,6,2023,dieciocho,junio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-06-18,Maíz,250.25,León,18,6,2023,dieciocho,junio,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-06-19,Maíz,250.25,León,19,6,2023,diecinueve,junio,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-06-19,Trigo,375.6,Barcelona,19,6,2023,diecinueve,junio,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-06-20,Maíz,251.0,León,20,6,2023,veinte,junio,dos mil veintitrés,subió,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-06-20,Trigo,376.35,Barcelona,20,6,2023,veinte,junio,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-06-21,Maíz,252.0,León,21,6,2023,veintiuno,junio,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-21,Trigo,377.35,Barcelona,21,6,2023,veintiuno,junio,dos mil veintitrés,subió,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-06-22,Trigo,380.35,Barcelona,22,6,2023,veintidós,junio,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-06-22,Maíz,255.0,León,22,6,2023,veintidós,junio,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-06-23,Maíz,254.0,León,23,6,2023,veintitrés,junio,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-06-23,Trigo,379.35,Barcelona,23,6,2023,veintitrés,junio,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-06-24,Maíz,254.0,León,24,6,2023,veinticuatro,junio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-06-24,Trigo,379.35,Barcelona,24,6,2023,veinticuatro,junio,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-06-25,Maíz,254.0,León,25,6,2023,veinticinco,junio,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-06-25,Trigo,379.35,Barcelona,25,6,2023,veinticinco,junio,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-06-26,Maíz,256.0,León,26,6,2023,veintiséis,junio,dos mil veintitrés,subió,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-06-26,Trigo,381.35,Barcelona,26,6,2023,veintiséis,junio,dos mil veintitrés,subió,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-06-27,Trigo,378.35,Barcelona,27,6,2023,veintisiete,junio,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-06-27,Maíz,253.0,León,27,6,2023,veintisiete,junio,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-06-28,Trigo,375.35,Barcelona,28,6,2023,veintiocho,junio,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-06-28,Maíz,250.0,León,28,6,2023,veintiocho,junio,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-06-29,Trigo,373.35,Barcelona,29,6,2023,veintinueve,junio,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-06-29,Maíz,248.0,León,29,6,2023,veintinueve,junio,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-06-30,Trigo,373.35,Barcelona,30,6,2023,treinta,junio,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-06-30,Maíz,248.0,León,30,6,2023,treinta,junio,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-07-01,Trigo,373.35,Barcelona,1,7,2023,uno,julio,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-07-01,Maíz,248.0,León,1,7,2023,uno,julio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-07-02,Maíz,248.0,León,2,7,2023,dos,julio,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-07-02,Trigo,373.35,Barcelona,2,7,2023,dos,julio,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-07-03,Maíz,247.0,León,3,7,2023,tres,julio,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-07-03,Trigo,372.35,Barcelona,3,7,2023,tres,julio,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-07-04,Maíz,247.0,León,4,7,2023,cuatro,julio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-07-04,Trigo,372.35,Barcelona,4,7,2023,cuatro,julio,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-07-05,Maíz,247.0,León,5,7,2023,cinco,julio,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-07-05,Trigo,372.35,Barcelona,5,7,2023,cinco,julio,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-07-06,Trigo,372.35,Barcelona,6,7,2023,seis,julio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-07-06,Maíz,247.0,León,6,7,2023,seis,julio,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-07-07,Maíz,247.0,León,7,7,2023,siete,julio,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-07-07,Trigo,372.35,Barcelona,7,7,2023,siete,julio,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-07-08,Maíz,247.0,León,8,7,2023,ocho,julio,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-07-08,Trigo,372.35,Barcelona,8,7,2023,ocho,julio,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-07-09,Maíz,247.0,León,9,7,2023,nueve,julio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-07-09,Trigo,372.35,Barcelona,9,7,2023,nueve,julio,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-07-10,Trigo,372.35,Barcelona,10,7,2023,diez,julio,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-07-10,Maíz,247.0,León,10,7,2023,diez,julio,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-07-11,Maíz,248.0,León,11,7,2023,once,julio,dos mil veintitrés,subió,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-07-11,Trigo,373.35,Barcelona,11,7,2023,once,julio,dos mil veintitrés,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-07-12,Maíz,248.0,León,12,7,2023,doce,julio,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-07-12,Trigo,373.35,Barcelona,12,7,2023,doce,julio,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-07-13,Trigo,371.35,Barcelona,13,7,2023,trece,julio,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-07-13,Maíz,246.0,León,13,7,2023,trece,julio,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-07-14,Trigo,372.35,Barcelona,14,7,2023,catorce,julio,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-07-14,Maíz,247.0,León,14,7,2023,catorce,julio,dos mil veintitrés,subió,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-07-15,Trigo,372.35,Barcelona,15,7,2023,quince,julio,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-07-15,Maíz,247.0,León,15,7,2023,quince,julio,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-07-16,Maíz,247.0,León,16,7,2023,dieciséis,julio,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-07-16,Trigo,372.35,Barcelona,16,7,2023,dieciséis,julio,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-07-17,Trigo,373.35,Barcelona,17,7,2023,diecisiete,julio,dos mil veintitrés,subió,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-07-17,Maíz,248.0,León,17,7,2023,diecisiete,julio,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-07-18,Trigo,374.35,Barcelona,18,7,2023,dieciocho,julio,dos mil veintitrés,subió,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-07-18,Maíz,249.0,León,18,7,2023,dieciocho,julio,dos mil veintitrés,subió,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-07-19,Trigo,378.35,Barcelona,19,7,2023,diecinueve,julio,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-07-19,Maíz,253.0,León,19,7,2023,diecinueve,julio,dos mil veintitrés,subió,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-07-20,Trigo,381.35,Barcelona,20,7,2023,veinte,julio,dos mil veintitrés,subió,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-07-20,Maíz,256.0,León,20,7,2023,veinte,julio,dos mil veintitrés,subió,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-07-21,Trigo,379.35,Barcelona,21,7,2023,veintiuno,julio,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-07-21,Maíz,254.0,León,21,7,2023,veintiuno,julio,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-07-22,Trigo,379.35,Barcelona,22,7,2023,veintidós,julio,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-07-22,Maíz,254.0,León,22,7,2023,veintidós,julio,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-07-23,Trigo,379.35,Barcelona,23,7,2023,veintitrés,julio,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-07-23,Maíz,254.0,León,23,7,2023,veintitrés,julio,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-07-24,Maíz,256.5,León,24,7,2023,veinticuatro,julio,dos mil veintitrés,subió,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-07-24,Trigo,381.85,Barcelona,24,7,2023,veinticuatro,julio,dos mil veintitrés,subió,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-07-25,Trigo,381.85,Barcelona,25,7,2023,veinticinco,julio,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-07-25,Maíz,256.5,León,25,7,2023,veinticinco,julio,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-07-26,Trigo,381.35,Barcelona,26,7,2023,veintiséis,julio,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-07-26,Maíz,256.0,León,26,7,2023,veintiséis,julio,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-07-27,Trigo,381.1,Barcelona,27,7,2023,veintisiete,julio,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-07-27,Maíz,255.75,León,27,7,2023,veintisiete,julio,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-07-28,Trigo,380.35,Barcelona,28,7,2023,veintiocho,julio,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-07-28,Maíz,255.0,León,28,7,2023,veintiocho,julio,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-07-29,Maíz,255.0,León,29,7,2023,veintinueve,julio,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-07-29,Trigo,380.35,Barcelona,29,7,2023,veintinueve,julio,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-07-30,Trigo,380.35,Barcelona,30,7,2023,treinta,julio,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-07-30,Maíz,255.0,León,30,7,2023,treinta,julio,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-07-31,Trigo,378.35,Barcelona,31,7,2023,treinta y uno,julio,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-07-31,Maíz,253.0,León,31,7,2023,treinta y uno,julio,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-01,Trigo,375.85,Barcelona,1,8,2023,uno,agosto,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-08-01,Maíz,250.5,León,1,8,2023,uno,agosto,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-08-02,Trigo,375.85,Barcelona,2,8,2023,dos,agosto,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-02,Maíz,250.5,León,2,8,2023,dos,agosto,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-08-03,Trigo,375.35,Barcelona,3,8,2023,tres,agosto,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-03,Maíz,250.0,León,3,8,2023,tres,agosto,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-04,Maíz,251.0,León,4,8,2023,cuatro,agosto,dos mil veintitrés,subió,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-08-04,Trigo,376.35,Barcelona,4,8,2023,cuatro,agosto,dos mil veintitrés,subió,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-08-05,Trigo,376.35,Barcelona,5,8,2023,cinco,agosto,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-08-05,Maíz,251.0,León,5,8,2023,cinco,agosto,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-08-06,Maíz,251.0,León,6,8,2023,seis,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-06,Trigo,376.35,Barcelona,6,8,2023,seis,agosto,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-08-07,Trigo,377.6,Barcelona,7,8,2023,siete,agosto,dos mil veintitrés,subió,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-08-07,Maíz,252.25,León,7,8,2023,siete,agosto,dos mil veintitrés,subió,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-08-08,Trigo,377.6,Barcelona,8,8,2023,ocho,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-08,Maíz,252.25,León,8,8,2023,ocho,agosto,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-08-09,Trigo,377.6,Barcelona,9,8,2023,nueve,agosto,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-08-09,Maíz,252.25,León,9,8,2023,nueve,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-10,Maíz,252.0,León,10,8,2023,diez,agosto,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-08-10,Trigo,377.35,Barcelona,10,8,2023,diez,agosto,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-08-11,Trigo,377.35,Barcelona,11,8,2023,once,agosto,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-11,Maíz,252.0,León,11,8,2023,once,agosto,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-08-12,Trigo,377.35,Barcelona,12,8,2023,doce,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-12,Maíz,252.0,León,12,8,2023,doce,agosto,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-08-13,Maíz,252.0,León,13,8,2023,trece,agosto,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-13,Trigo,377.35,Barcelona,13,8,2023,trece,agosto,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-08-14,Trigo,377.35,Barcelona,14,8,2023,catorce,agosto,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-08-14,Maíz,252.0,León,14,8,2023,catorce,agosto,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-08-15,Maíz,252.0,León,15,8,2023,quince,agosto,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-08-15,Trigo,377.35,Barcelona,15,8,2023,quince,agosto,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-08-16,Trigo,377.35,Barcelona,16,8,2023,dieciséis,agosto,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-08-16,Maíz,252.0,León,16,8,2023,dieciséis,agosto,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-08-17,Trigo,374.35,Barcelona,17,8,2023,diecisiete,agosto,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-17,Maíz,249.0,León,17,8,2023,diecisiete,agosto,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-08-18,Maíz,249.0,León,18,8,2023,dieciocho,agosto,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-08-18,Trigo,374.35,Barcelona,18,8,2023,dieciocho,agosto,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-08-19,Maíz,249.0,León,19,8,2023,diecinueve,agosto,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-08-19,Trigo,374.35,Barcelona,19,8,2023,diecinueve,agosto,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-08-20,Maíz,249.0,León,20,8,2023,veinte,agosto,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-08-20,Trigo,374.35,Barcelona,20,8,2023,veinte,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-21,Maíz,248.0,León,21,8,2023,veintiuno,agosto,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-08-21,Trigo,373.35,Barcelona,21,8,2023,veintiuno,agosto,dos mil veintitrés,bajó,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-08-22,Maíz,248.0,León,22,8,2023,veintidós,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-22,Trigo,373.35,Barcelona,22,8,2023,veintidós,agosto,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-08-23,Maíz,248.0,León,23,8,2023,veintitrés,agosto,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-08-23,Trigo,373.35,Barcelona,23,8,2023,veintitrés,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-24,Maíz,246.0,León,24,8,2023,veinticuatro,agosto,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-08-24,Trigo,371.35,Barcelona,24,8,2023,veinticuatro,agosto,dos mil veintitrés,bajó,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-08-25,Maíz,246.0,León,25,8,2023,veinticinco,agosto,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-08-25,Trigo,371.35,Barcelona,25,8,2023,veinticinco,agosto,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-08-26,Maíz,246.0,León,26,8,2023,veintiséis,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-08-26,Trigo,371.35,Barcelona,26,8,2023,veintiséis,agosto,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-08-27,Trigo,371.35,Barcelona,27,8,2023,veintisiete,agosto,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-27,Maíz,246.0,León,27,8,2023,veintisiete,agosto,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-08-28,Trigo,371.35,Barcelona,28,8,2023,veintiocho,agosto,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-08-28,Maíz,246.0,León,28,8,2023,veintiocho,agosto,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-08-29,Trigo,370.6,Barcelona,29,8,2023,veintinueve,agosto,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-08-29,Maíz,245.25,León,29,8,2023,veintinueve,agosto,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-08-30,Trigo,369.85,Barcelona,30,8,2023,treinta,agosto,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-08-30,Maíz,244.5,León,30,8,2023,treinta,agosto,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-08-31,Trigo,369.85,Barcelona,31,8,2023,treinta y uno,agosto,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-08-31,Maíz,244.5,León,31,8,2023,treinta y uno,agosto,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-09-01,Maíz,244.0,León,1,9,2023,uno,septiembre,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-09-01,Trigo,369.35,Barcelona,1,9,2023,uno,septiembre,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-02,Trigo,369.35,Barcelona,2,9,2023,dos,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-02,Maíz,244.0,León,2,9,2023,dos,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-09-03,Maíz,244.0,León,3,9,2023,tres,septiembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-09-03,Trigo,369.35,Barcelona,3,9,2023,tres,septiembre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-09-04,Maíz,244.0,León,4,9,2023,cuatro,septiembre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-09-04,Trigo,369.35,Barcelona,4,9,2023,cuatro,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-09-05,Trigo,370.35,Barcelona,5,9,2023,cinco,septiembre,dos mil veintitrés,subió,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-09-05,Maíz,245.0,León,5,9,2023,cinco,septiembre,dos mil veintitrés,subió,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-09-06,Trigo,370.35,Barcelona,6,9,2023,seis,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-06,Maíz,245.0,León,6,9,2023,seis,septiembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-09-07,Trigo,370.35,Barcelona,7,9,2023,siete,septiembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-09-07,Maíz,245.0,León,7,9,2023,siete,septiembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-09-08,Maíz,245.0,León,8,9,2023,ocho,septiembre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-09-08,Trigo,370.35,Barcelona,8,9,2023,ocho,septiembre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-09-09,Trigo,370.35,Barcelona,9,9,2023,nueve,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-09,Maíz,245.0,León,9,9,2023,nueve,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-09-10,Trigo,370.35,Barcelona,10,9,2023,diez,septiembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-09-10,Maíz,245.0,León,10,9,2023,diez,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-09-11,Maíz,244.0,León,11,9,2023,once,septiembre,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-09-11,Trigo,369.35,Barcelona,11,9,2023,once,septiembre,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-09-12,Trigo,368.35,Barcelona,12,9,2023,doce,septiembre,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-12,Maíz,243.0,León,12,9,2023,doce,septiembre,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-13,Maíz,243.0,León,13,9,2023,trece,septiembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-09-13,Trigo,368.35,Barcelona,13,9,2023,trece,septiembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-09-14,Maíz,242.0,León,14,9,2023,catorce,septiembre,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-09-14,Trigo,367.35,Barcelona,14,9,2023,catorce,septiembre,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-09-15,Maíz,242.75,León,15,9,2023,quince,septiembre,dos mil veintitrés,subió,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-09-15,Trigo,368.1,Barcelona,15,9,2023,quince,septiembre,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-09-16,Trigo,368.1,Barcelona,16,9,2023,dieciséis,septiembre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-09-16,Maíz,242.75,León,16,9,2023,dieciséis,septiembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-09-17,Maíz,242.75,León,17,9,2023,diecisiete,septiembre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-09-17,Trigo,368.1,Barcelona,17,9,2023,diecisiete,septiembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-09-18,Maíz,241.0,León,18,9,2023,dieciocho,septiembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-09-18,Trigo,366.35,Barcelona,18,9,2023,dieciocho,septiembre,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-09-19,Trigo,366.35,Barcelona,19,9,2023,diecinueve,septiembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-09-19,Maíz,241.0,León,19,9,2023,diecinueve,septiembre,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-09-20,Maíz,242.0,León,20,9,2023,veinte,septiembre,dos mil veintitrés,subió,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-09-20,Trigo,367.35,Barcelona,20,9,2023,veinte,septiembre,dos mil veintitrés,subió,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-09-21,Maíz,242.0,León,21,9,2023,veintiuno,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-09-21,Trigo,367.35,Barcelona,21,9,2023,veintiuno,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-09-22,Maíz,242.0,León,22,9,2023,veintidós,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-09-22,Trigo,367.35,Barcelona,22,9,2023,veintidós,septiembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-09-23,Trigo,367.35,Barcelona,23,9,2023,veintitrés,septiembre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-09-23,Maíz,242.0,León,23,9,2023,veintitrés,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-09-24,Trigo,367.35,Barcelona,24,9,2023,veinticuatro,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-09-24,Maíz,242.0,León,24,9,2023,veinticuatro,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-09-25,Trigo,367.35,Barcelona,25,9,2023,veinticinco,septiembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-09-25,Maíz,242.0,León,25,9,2023,veinticinco,septiembre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-09-26,Maíz,242.0,León,26,9,2023,veintiséis,septiembre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-09-26,Trigo,367.35,Barcelona,26,9,2023,veintiséis,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-09-27,Trigo,367.35,Barcelona,27,9,2023,veintisiete,septiembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-09-27,Maíz,242.0,León,27,9,2023,veintisiete,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-09-28,Trigo,366.35,Barcelona,28,9,2023,veintiocho,septiembre,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-09-28,Maíz,241.0,León,28,9,2023,veintiocho,septiembre,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-09-29,Maíz,241.0,León,29,9,2023,veintinueve,septiembre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-09-29,Trigo,366.35,Barcelona,29,9,2023,veintinueve,septiembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-09-30,Trigo,366.35,Barcelona,30,9,2023,treinta,septiembre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-09-30,Maíz,241.0,León,30,9,2023,treinta,septiembre,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-10-01,Trigo,366.35,Barcelona,1,10,2023,uno,octubre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-10-01,Maíz,241.0,León,1,10,2023,uno,octubre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-10-02,Trigo,364.35,Barcelona,2,10,2023,dos,octubre,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-10-02,Maíz,239.0,León,2,10,2023,dos,octubre,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-03,Trigo,364.35,Barcelona,3,10,2023,tres,octubre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-10-03,Maíz,239.0,León,3,10,2023,tres,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-10-04,Maíz,237.5,León,4,10,2023,cuatro,octubre,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-10-04,Trigo,362.85,Barcelona,4,10,2023,cuatro,octubre,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-10-05,Maíz,236.5,León,5,10,2023,cinco,octubre,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-10-05,Trigo,361.85,Barcelona,5,10,2023,cinco,octubre,dos mil veintitrés,bajó,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-10-06,Maíz,236.5,León,6,10,2023,seis,octubre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-10-06,Trigo,361.85,Barcelona,6,10,2023,seis,octubre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-10-07,Trigo,361.85,Barcelona,7,10,2023,siete,octubre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-10-07,Maíz,236.5,León,7,10,2023,siete,octubre,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-10-08,Trigo,361.85,Barcelona,8,10,2023,ocho,octubre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-10-08,Maíz,236.5,León,8,10,2023,ocho,octubre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-10-09,Trigo,354.35,Barcelona,9,10,2023,nueve,octubre,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-10-09,Maíz,229.0,León,9,10,2023,nueve,octubre,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-10-10,Trigo,352.85,Barcelona,10,10,2023,diez,octubre,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-10-10,Maíz,227.5,León,10,10,2023,diez,octubre,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-10-11,Maíz,226.0,León,11,10,2023,once,octubre,dos mil veintitrés,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-10-11,Trigo,351.35,Barcelona,11,10,2023,once,octubre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-10-12,Maíz,226.0,León,12,10,2023,doce,octubre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-12,Trigo,351.35,Barcelona,12,10,2023,doce,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-10-13,Maíz,226.0,León,13,10,2023,trece,octubre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-10-13,Trigo,351.35,Barcelona,13,10,2023,trece,octubre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-10-14,Trigo,351.35,Barcelona,14,10,2023,catorce,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-10-14,Maíz,226.0,León,14,10,2023,catorce,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-10-15,Trigo,351.35,Barcelona,15,10,2023,quince,octubre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-10-15,Maíz,226.0,León,15,10,2023,quince,octubre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-16,Trigo,351.35,Barcelona,16,10,2023,dieciséis,octubre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-10-16,Maíz,226.0,León,16,10,2023,dieciséis,octubre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-10-17,Maíz,225.0,León,17,10,2023,diecisiete,octubre,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-10-17,Trigo,350.35,Barcelona,17,10,2023,diecisiete,octubre,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-10-18,Maíz,225.0,León,18,10,2023,dieciocho,octubre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-10-18,Trigo,350.35,Barcelona,18,10,2023,dieciocho,octubre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-10-19,Maíz,224.25,León,19,10,2023,diecinueve,octubre,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-10-19,Trigo,349.6,Barcelona,19,10,2023,diecinueve,octubre,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-10-20,Maíz,224.25,León,20,10,2023,veinte,octubre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-10-20,Trigo,349.6,Barcelona,20,10,2023,veinte,octubre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-10-21,Maíz,224.25,León,21,10,2023,veintiuno,octubre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-10-21,Trigo,349.6,Barcelona,21,10,2023,veintiuno,octubre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-22,Trigo,349.6,Barcelona,22,10,2023,veintidós,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-10-22,Maíz,224.25,León,22,10,2023,veintidós,octubre,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-10-23,Trigo,349.6,Barcelona,23,10,2023,veintitrés,octubre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-23,Maíz,224.25,León,23,10,2023,veintitrés,octubre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-10-24,Maíz,224.25,León,24,10,2023,veinticuatro,octubre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-10-24,Trigo,349.6,Barcelona,24,10,2023,veinticuatro,octubre,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-10-25,Trigo,349.35,Barcelona,25,10,2023,veinticinco,octubre,dos mil veintitrés,bajó,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-10-25,Maíz,224.0,León,25,10,2023,veinticinco,octubre,dos mil veintitrés,bajó,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-10-26,Maíz,224.0,León,26,10,2023,veintiséis,octubre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-10-26,Trigo,349.35,Barcelona,26,10,2023,veintiséis,octubre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-10-27,Maíz,223.5,León,27,10,2023,veintisiete,octubre,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-10-27,Trigo,348.85,Barcelona,27,10,2023,veintisiete,octubre,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-10-28,Maíz,223.5,León,28,10,2023,veintiocho,octubre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-10-28,Trigo,348.85,Barcelona,28,10,2023,veintiocho,octubre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-10-29,Trigo,348.85,Barcelona,29,10,2023,veintinueve,octubre,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-10-29,Maíz,223.5,León,29,10,2023,veintinueve,octubre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-10-30,Maíz,223.5,León,30,10,2023,treinta,octubre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-10-30,Trigo,348.85,Barcelona,30,10,2023,treinta,octubre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-10-31,Trigo,347.35,Barcelona,31,10,2023,treinta y uno,octubre,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-10-31,Maíz,222.0,León,31,10,2023,treinta y uno,octubre,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-11-01,Trigo,347.35,Barcelona,1,11,2023,uno,noviembre,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-11-01,Maíz,222.0,León,1,11,2023,uno,noviembre,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-11-02,Maíz,222.0,León,2,11,2023,dos,noviembre,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-11-02,Trigo,347.35,Barcelona,2,11,2023,dos,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-11-03,Maíz,221.5,León,3,11,2023,tres,noviembre,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-11-03,Trigo,346.85,Barcelona,3,11,2023,tres,noviembre,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-11-04,Trigo,346.85,Barcelona,4,11,2023,cuatro,noviembre,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-11-04,Maíz,221.5,León,4,11,2023,cuatro,noviembre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-11-05,Maíz,221.5,León,5,11,2023,cinco,noviembre,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-11-05,Trigo,346.85,Barcelona,5,11,2023,cinco,noviembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-11-06,Trigo,345.85,Barcelona,6,11,2023,seis,noviembre,dos mil veintitrés,bajó,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-11-06,Maíz,220.5,León,6,11,2023,seis,noviembre,dos mil veintitrés,bajó,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-11-07,Trigo,345.35,Barcelona,7,11,2023,siete,noviembre,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-11-07,Maíz,220.0,León,7,11,2023,siete,noviembre,dos mil veintitrés,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-11-08,Trigo,346.35,Barcelona,8,11,2023,ocho,noviembre,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-11-08,Maíz,221.0,León,8,11,2023,ocho,noviembre,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-11-09,Trigo,345.35,Barcelona,9,11,2023,nueve,noviembre,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-11-09,Maíz,220.0,León,9,11,2023,nueve,noviembre,dos mil veintitrés,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-11-10,Trigo,345.35,Barcelona,10,11,2023,diez,noviembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-11-10,Maíz,220.0,León,10,11,2023,diez,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-11,Trigo,345.35,Barcelona,11,11,2023,once,noviembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-11-11,Maíz,220.0,León,11,11,2023,once,noviembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-11-12,Maíz,220.0,León,12,11,2023,doce,noviembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-11-12,Trigo,345.35,Barcelona,12,11,2023,doce,noviembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-11-13,Maíz,219.0,León,13,11,2023,trece,noviembre,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-11-13,Trigo,344.35,Barcelona,13,11,2023,trece,noviembre,dos mil veintitrés,bajó,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-11-14,Trigo,343.85,Barcelona,14,11,2023,catorce,noviembre,dos mil veintitrés,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-11-14,Maíz,218.5,León,14,11,2023,catorce,noviembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-11-15,Maíz,216.5,León,15,11,2023,quince,noviembre,dos mil veintitrés,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-11-15,Trigo,341.85,Barcelona,15,11,2023,quince,noviembre,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-16,Trigo,341.35,Barcelona,16,11,2023,dieciséis,noviembre,dos mil veintitrés,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-11-16,Maíz,216.0,León,16,11,2023,dieciséis,noviembre,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-11-17,Trigo,340.35,Barcelona,17,11,2023,diecisiete,noviembre,dos mil veintitrés,bajó,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-11-17,Maíz,215.0,León,17,11,2023,diecisiete,noviembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-11-18,Trigo,340.35,Barcelona,18,11,2023,dieciocho,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-11-18,Maíz,215.0,León,18,11,2023,dieciocho,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-11-19,Trigo,340.35,Barcelona,19,11,2023,diecinueve,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-11-19,Maíz,215.0,León,19,11,2023,diecinueve,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-11-20,Trigo,339.35,Barcelona,20,11,2023,veinte,noviembre,dos mil veintitrés,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-11-20,Maíz,214.0,León,20,11,2023,veinte,noviembre,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-11-21,Maíz,213.0,León,21,11,2023,veintiuno,noviembre,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-11-21,Trigo,338.35,Barcelona,21,11,2023,veintiuno,noviembre,dos mil veintitrés,bajó,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-11-22,Trigo,338.35,Barcelona,22,11,2023,veintidós,noviembre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-11-22,Maíz,213.0,León,22,11,2023,veintidós,noviembre,dos mil veintitrés,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2023-11-23,Maíz,212.0,León,23,11,2023,veintitrés,noviembre,dos mil veintitrés,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-11-23,Trigo,337.35,Barcelona,23,11,2023,veintitrés,noviembre,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-24,Maíz,212.0,León,24,11,2023,veinticuatro,noviembre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-11-24,Trigo,337.35,Barcelona,24,11,2023,veinticuatro,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-11-25,Maíz,212.0,León,25,11,2023,veinticinco,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-25,Trigo,337.35,Barcelona,25,11,2023,veinticinco,noviembre,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-11-26,Trigo,337.35,Barcelona,26,11,2023,veintiséis,noviembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-11-26,Maíz,212.0,León,26,11,2023,veintiséis,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-11-27,Trigo,336.35,Barcelona,27,11,2023,veintisiete,noviembre,dos mil veintitrés,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-27,Maíz,211.0,León,27,11,2023,veintisiete,noviembre,dos mil veintitrés,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-11-28,Trigo,335.35,Barcelona,28,11,2023,veintiocho,noviembre,dos mil veintitrés,bajó,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-11-28,Maíz,210.0,León,28,11,2023,veintiocho,noviembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-11-29,Maíz,211.0,León,29,11,2023,veintinueve,noviembre,dos mil veintitrés,subió,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-11-29,Trigo,336.35,Barcelona,29,11,2023,veintinueve,noviembre,dos mil veintitrés,subió,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-11-30,Maíz,211.0,León,30,11,2023,treinta,noviembre,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-11-30,Trigo,336.35,Barcelona,30,11,2023,treinta,noviembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-12-01,Trigo,336.35,Barcelona,1,12,2023,uno,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-12-01,Maíz,211.0,León,1,12,2023,uno,diciembre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-12-02,Maíz,211.0,León,2,12,2023,dos,diciembre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-12-02,Trigo,336.35,Barcelona,2,12,2023,dos,diciembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-12-03,Trigo,336.35,Barcelona,3,12,2023,tres,diciembre,dos mil veintitrés,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-12-03,Maíz,211.0,León,3,12,2023,tres,diciembre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-12-04,Trigo,337.35,Barcelona,4,12,2023,cuatro,diciembre,dos mil veintitrés,subió,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-12-04,Maíz,212.0,León,4,12,2023,cuatro,diciembre,dos mil veintitrés,subió,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-12-05,Trigo,338.35,Barcelona,5,12,2023,cinco,diciembre,dos mil veintitrés,subió,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-12-05,Maíz,213.0,León,5,12,2023,cinco,diciembre,dos mil veintitrés,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-12-06,Trigo,338.35,Barcelona,6,12,2023,seis,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-12-06,Maíz,213.0,León,6,12,2023,seis,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2023-12-07,Maíz,213.0,León,7,12,2023,siete,diciembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-12-07,Trigo,338.35,Barcelona,7,12,2023,siete,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-12-08,Maíz,213.0,León,8,12,2023,ocho,diciembre,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-12-08,Trigo,338.35,Barcelona,8,12,2023,ocho,diciembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-12-09,Trigo,338.35,Barcelona,9,12,2023,nueve,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-12-09,Maíz,213.0,León,9,12,2023,nueve,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-12-10,Maíz,213.0,León,10,12,2023,diez,diciembre,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-12-10,Trigo,338.35,Barcelona,10,12,2023,diez,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2023-12-11,Trigo,338.1,Barcelona,11,12,2023,once,diciembre,dos mil veintitrés,bajó,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-12-11,Maíz,212.75,León,11,12,2023,once,diciembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-12-12,Trigo,339.85,Barcelona,12,12,2023,doce,diciembre,dos mil veintitrés,subió,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-12-12,Maíz,214.5,León,12,12,2023,doce,diciembre,dos mil veintitrés,subió,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-12-13,Trigo,339.85,Barcelona,13,12,2023,trece,diciembre,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-12-13,Maíz,214.5,León,13,12,2023,trece,diciembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-12-14,Maíz,214.5,León,14,12,2023,catorce,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-12-14,Trigo,339.85,Barcelona,14,12,2023,catorce,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-12-15,Maíz,215.0,León,15,12,2023,quince,diciembre,dos mil veintitrés,subió,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2023-12-15,Trigo,340.35,Barcelona,15,12,2023,quince,diciembre,dos mil veintitrés,subió,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-12-16,Maíz,215.0,León,16,12,2023,dieciséis,diciembre,dos mil veintitrés,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2023-12-16,Trigo,340.35,Barcelona,16,12,2023,dieciséis,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-12-17,Trigo,340.35,Barcelona,17,12,2023,diecisiete,diciembre,dos mil veintitrés,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2023-12-17,Maíz,215.0,León,17,12,2023,diecisiete,diciembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-12-18,Trigo,340.35,Barcelona,18,12,2023,dieciocho,diciembre,dos mil veintitrés,se mantuvo igual,El trigo registra una subida del 10% en los últimos días debido a las preocupaciones sobre la oferta.
+2023-12-18,Maíz,215.0,León,18,12,2023,dieciocho,diciembre,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-12-19,Maíz,215.0,León,19,12,2023,diecinueve,diciembre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-12-19,Trigo,340.35,Barcelona,19,12,2023,diecinueve,diciembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-12-20,Trigo,340.35,Barcelona,20,12,2023,veinte,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-12-20,Maíz,215.0,León,20,12,2023,veinte,diciembre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-12-21,Trigo,340.35,Barcelona,21,12,2023,veintiuno,diciembre,dos mil veintitrés,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2023-12-21,Maíz,215.0,León,21,12,2023,veintiuno,diciembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-12-22,Trigo,340.35,Barcelona,22,12,2023,veintidós,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-12-22,Maíz,215.0,León,22,12,2023,veintidós,diciembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-12-23,Maíz,215.0,León,23,12,2023,veintitrés,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2023-12-23,Trigo,340.35,Barcelona,23,12,2023,veintitrés,diciembre,dos mil veintitrés,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-12-24,Trigo,340.35,Barcelona,24,12,2023,veinticuatro,diciembre,dos mil veintitrés,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-12-24,Maíz,215.0,León,24,12,2023,veinticuatro,diciembre,dos mil veintitrés,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2023-12-25,Maíz,215.0,León,25,12,2023,veinticinco,diciembre,dos mil veintitrés,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2023-12-25,Trigo,340.35,Barcelona,25,12,2023,veinticinco,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2023-12-26,Maíz,216.0,León,26,12,2023,veintiséis,diciembre,dos mil veintitrés,subió,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-12-26,Trigo,341.35,Barcelona,26,12,2023,veintiséis,diciembre,dos mil veintitrés,subió,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2023-12-27,Maíz,215.5,León,27,12,2023,veintisiete,diciembre,dos mil veintitrés,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2023-12-27,Trigo,340.85,Barcelona,27,12,2023,veintisiete,diciembre,dos mil veintitrés,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2023-12-28,Trigo,340.85,Barcelona,28,12,2023,veintiocho,diciembre,dos mil veintitrés,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2023-12-28,Maíz,215.5,León,28,12,2023,veintiocho,diciembre,dos mil veintitrés,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2023-12-29,Trigo,340.85,Barcelona,29,12,2023,veintinueve,diciembre,dos mil veintitrés,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2023-12-29,Maíz,215.5,León,29,12,2023,veintinueve,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2023-12-30,Trigo,340.85,Barcelona,30,12,2023,treinta,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2023-12-30,Maíz,215.5,León,30,12,2023,treinta,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2023-12-31,Maíz,215.5,León,31,12,2023,treinta y uno,diciembre,dos mil veintitrés,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2023-12-31,Trigo,340.85,Barcelona,31,12,2023,treinta y uno,diciembre,dos mil veintitrés,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2024-01-01,Trigo,340.85,Barcelona,1,1,2024,uno,enero,dos mil veinticuatro,se mantuvo igual,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2024-01-01,Maíz,215.5,León,1,1,2024,uno,enero,dos mil veinticuatro,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2024-01-02,Maíz,215.5,León,2,1,2024,dos,enero,dos mil veinticuatro,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2024-01-02,Trigo,340.85,Barcelona,2,1,2024,dos,enero,dos mil veinticuatro,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2024-01-03,Trigo,340.85,Barcelona,3,1,2024,tres,enero,dos mil veinticuatro,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2024-01-03,Maíz,215.5,León,3,1,2024,tres,enero,dos mil veinticuatro,se mantuvo igual,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2024-01-04,Maíz,215.5,León,4,1,2024,cuatro,enero,dos mil veinticuatro,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2024-01-04,Trigo,340.85,Barcelona,4,1,2024,cuatro,enero,dos mil veinticuatro,se mantuvo igual,Se pronostica un aumento en los precios del ganado debido a las condiciones climáticas adversas que afectan la producción de forraje.
+2024-01-05,Trigo,340.85,Barcelona,5,1,2024,cinco,enero,dos mil veinticuatro,se mantuvo igual,Los precios del mineral de hierro suben debido a la robusta demanda de China.
+2024-01-05,Maíz,215.5,León,5,1,2024,cinco,enero,dos mil veinticuatro,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2024-01-06,Maíz,215.5,León,6,1,2024,seis,enero,dos mil veinticuatro,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2024-01-06,Trigo,340.85,Barcelona,6,1,2024,seis,enero,dos mil veinticuatro,se mantuvo igual,Los precios del café experimentan una fuerte caída debido al exceso de oferta y la disminución de la demanda.
+2024-01-07,Maíz,215.5,León,7,1,2024,siete,enero,dos mil veinticuatro,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2024-01-07,Trigo,340.85,Barcelona,7,1,2024,siete,enero,dos mil veinticuatro,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2024-01-08,Maíz,215.5,León,8,1,2024,ocho,enero,dos mil veinticuatro,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2024-01-08,Trigo,340.85,Barcelona,8,1,2024,ocho,enero,dos mil veinticuatro,se mantuvo igual,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2024-01-09,Trigo,339.85,Barcelona,9,1,2024,nueve,enero,dos mil veinticuatro,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2024-01-09,Maíz,214.5,León,9,1,2024,nueve,enero,dos mil veinticuatro,bajó,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2024-01-10,Maíz,214.5,León,10,1,2024,diez,enero,dos mil veinticuatro,se mantuvo igual,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2024-01-10,Trigo,339.85,Barcelona,10,1,2024,diez,enero,dos mil veinticuatro,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2024-01-11,Maíz,214.5,León,11,1,2024,once,enero,dos mil veinticuatro,se mantuvo igual,Los precios del gas natural se desploman debido a la sobreoferta y la disminución de la demanda.
+2024-01-11,Trigo,339.85,Barcelona,11,1,2024,once,enero,dos mil veinticuatro,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2024-01-12,Maíz,213.5,León,12,1,2024,doce,enero,dos mil veinticuatro,bajó,Los precios del platino alcanzan su nivel más alto en años debido a la escasez de suministro.
+2024-01-12,Trigo,338.85,Barcelona,12,1,2024,doce,enero,dos mil veinticuatro,bajó,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2024-01-13,Trigo,338.85,Barcelona,13,1,2024,trece,enero,dos mil veinticuatro,se mantuvo igual,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2024-01-13,Maíz,213.5,León,13,1,2024,trece,enero,dos mil veinticuatro,se mantuvo igual,Los precios del algodón se mantienen estables a pesar de las preocupaciones sobre la calidad del cultivo.
+2024-01-14,Maíz,213.5,León,14,1,2024,catorce,enero,dos mil veinticuatro,se mantuvo igual,Se pronostica una subida en los precios del cacao debido a las malas condiciones climáticas en las regiones productoras.
+2024-01-14,Trigo,338.85,Barcelona,14,1,2024,catorce,enero,dos mil veinticuatro,se mantuvo igual,Los precios del aluminio se mantienen estables a pesar de las fluctuaciones en los mercados financieros.
+2024-01-15,Maíz,213.5,León,15,1,2024,quince,enero,dos mil veinticuatro,se mantuvo igual,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2024-01-15,Trigo,338.85,Barcelona,15,1,2024,quince,enero,dos mil veinticuatro,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2024-01-16,Maíz,212.5,León,16,1,2024,dieciséis,enero,dos mil veinticuatro,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2024-01-16,Trigo,337.85,Barcelona,16,1,2024,dieciséis,enero,dos mil veinticuatro,bajó,La demanda de harina de pescado impulsa los precios del pescado a niveles históricos.
+2024-01-17,Maíz,210.5,León,17,1,2024,diecisiete,enero,dos mil veinticuatro,bajó,El cobre registra un aumento del 15% en las últimas semanas debido a la recuperación económica global.
+2024-01-17,Trigo,335.85,Barcelona,17,1,2024,diecisiete,enero,dos mil veinticuatro,bajó,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2024-01-18,Maíz,209.5,León,18,1,2024,dieciocho,enero,dos mil veinticuatro,bajó,La soja alcanza un precio récord en respuesta a la demanda china sin precedentes.
+2024-01-18,Trigo,334.85,Barcelona,18,1,2024,dieciocho,enero,dos mil veinticuatro,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2024-01-19,Maíz,208.5,León,19,1,2024,diecinueve,enero,dos mil veinticuatro,bajó,El precio del petróleo crudo aumenta debido a las tensiones geopolíticas en Oriente Medio.
+2024-01-19,Trigo,333.85,Barcelona,19,1,2024,diecinueve,enero,dos mil veinticuatro,bajó,Se espera que los precios del oro continúen su tendencia al alza como refugio seguro durante la incertidumbre económica.
+2024-01-20,Maíz,208.5,León,20,1,2024,veinte,enero,dos mil veinticuatro,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2024-01-20,Trigo,333.85,Barcelona,20,1,2024,veinte,enero,dos mil veinticuatro,se mantuvo igual,La caída en la producción de azúcar en Brasil impulsa los precios mundiales.
+2024-01-21,Trigo,333.85,Barcelona,21,1,2024,veintiuno,enero,dos mil veinticuatro,se mantuvo igual,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2024-01-21,Maíz,208.5,León,21,1,2024,veintiuno,enero,dos mil veinticuatro,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2024-01-22,Maíz,207.5,León,22,1,2024,veintidós,enero,dos mil veinticuatro,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2024-01-22,Trigo,332.85,Barcelona,22,1,2024,veintidós,enero,dos mil veinticuatro,bajó,Los precios del maíz alcanzan un nuevo máximo debido a la creciente demanda internacional.
+2024-01-23,Maíz,207.0,León,23,1,2024,veintitrés,enero,dos mil veinticuatro,bajó,Se espera una disminución en los precios del níquel debido a la desaceleración en la demanda de la industria automotriz.
+2024-01-23,Trigo,332.35,Barcelona,23,1,2024,veintitrés,enero,dos mil veinticuatro,bajó,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
+2024-01-24,Maíz,207.0,León,24,1,2024,veinticuatro,enero,dos mil veinticuatro,se mantuvo igual,La cosecha récord de arroz en Asia provoca una caída en los precios mundiales.
+2024-01-24,Trigo,332.35,Barcelona,24,1,2024,veinticuatro,enero,dos mil veinticuatro,se mantuvo igual,La caída en la producción de aceite de palma en Indonesia y Malasia impulsa los precios mundiales.
+2024-01-25,Maíz,207.0,León,25,1,2024,veinticinco,enero,dos mil veinticuatro,se mantuvo igual,La escasez de suministro de litio impulsa los precios a niveles récord.
+2024-01-25,Trigo,332.35,Barcelona,25,1,2024,veinticinco,enero,dos mil veinticuatro,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2024-01-26,Trigo,332.35,Barcelona,26,1,2024,veintiséis,enero,dos mil veinticuatro,se mantuvo igual,El zinc experimenta una fuerte caída debido a las preocupaciones sobre el exceso de oferta.
+2024-01-26,Maíz,207.0,León,26,1,2024,veintiséis,enero,dos mil veinticuatro,se mantuvo igual,La carne de cerdo registra una caída del 20% debido a la sobreoferta y la disminución de la demanda en el mercado internacional.
