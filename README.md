@@ -12,27 +12,22 @@ This project aims to create a chatbot capable of making queries to a transaction
 ## Setup Instructions
 1. Clone the Repository:
     ```html
-    git clone https://github.com/despinoza119/streamlit_deploy_app.git
+    git clone https://github.com/despinoza119/chatbot_rag_app.git
     ```
 
-2. Install requirements
+2. Change to "chatbot_solution" directory:
     ```html
-    pip install -r requirements.txt
+    cd chatbot_solution
     ```
 
-3. Define the necessary environment variables:
+3. Run Docker Compose File
     ```html
-    OPENAI_API_KEY=
+    docker compose up --build
     ```
 
-4. Run the streamlit app:
+4. To visualize the app go to http://localhost:8503 :
     ```html
-    streamlit run app.py
-    ```
-
-5. To visualize the app go to http://localhost:8501 :
-    ```html
-    http://localhost:8501
+    http://localhost:8503
     ```
 
 ## Documentation
