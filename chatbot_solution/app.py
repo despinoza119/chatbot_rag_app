@@ -8,7 +8,7 @@ api_key=['OPENAI_API_KEY']
 
 def retrieve_info_from_database(prompt):
     try:
-        conn = sqlite3.connect('data/abastores.db')
+        conn = sqlite3.connect('./data/abastores.db')
         cursor = conn.cursor()
 
         client = OpenAIChatClient()
